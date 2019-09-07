@@ -1,0 +1,16 @@
+Witterung;Temperatur;Luftfeuchtigkeit;Windig;TennisGespielt
+Regnerisch;Heiss;Hoch;FALSE;FALSE
+Regnerisch;Heiss;Hoch;TRUE;FALSE
+Bedeckt;Heiss;Hoch;FALSE;TRUE
+Sonnig;Mild;Hoch;FALSE;TRUE
+Sonnig;Kalt;Normal;FALSE;TRUE
+Sonnig;Kalt;Normal;TRUE;FALSE
+Bedeckt;Kalt;Normal;TRUE;TRUE
+Regnerisch;Mild;Hoch;FALSE;FALSE
+Regnerisch;Kalt;Normal;FALSE;TRUE
+Sonnig;Mild;Normal;FALSE;TRUE
+Regnerisch;Mild;Normal;TRUE;TRUE
+Bedeckt;Mild;Hoch;TRUE;TRUE
+Bedeckt;Heiss;Normal;FALSE;TRUE
+Sonnig;Mild;Hoch;TRUE;FALSE
+
