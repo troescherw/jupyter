@@ -1,0 +1,582 @@
+name,groesse,gewicht,verein
+Adriano Grimaldi,"1,88",76,1. FC Heidenheim 1846
+Marcel Titsch-Rivero,"1,80",72,1. FC Heidenheim 1846
+Rouven Sattelmaier,"1,87",85,1. FC Heidenheim 1846
+Mateusz Klich,"1,83",68,1. FC Kaiserslautern
+Karim Matmour,"1,81",72,1. FC Kaiserslautern
+Florian Riedel,"1,76",70,1. FC Kaiserslautern
+Kevin Stöger,"1,75",70,1. FC Kaiserslautern
+Alexander Ring,"1,72",68,1. FC Kaiserslautern
+Albert Bunjaku,"1,79",74,1. FC Kaiserslautern
+Chris Löwe,"1,71",68,1. FC Kaiserslautern
+Jakub Swierczok,"1,79",75,1. FC Kaiserslautern
+Willi Orban,"1,85",80,1. FC Kaiserslautern
+Dominique Heintz,"1,90",85,1. FC Kaiserslautern
+Olivier Occean,"1,86",86,1. FC Kaiserslautern
+Richard Sukuta-Pasu,"1,88",88,1. FC Kaiserslautern
+Markus Karl,"1,87",88,1. FC Kaiserslautern
+Tobias Sippel,"1,80",82,1. FC Kaiserslautern
+Sascha Bigalke,"1,67",56,1. FC Köln
+Timo Horn,"1,91",76,1. FC Köln
+Kevin Vogt,"1,92",78,1. FC Köln
+Miso Brecko,"1,78",68,1. FC Köln
+Adam Matuschyk,"1,83",73,1. FC Köln
+Slawomir Peszko,"1,72",65,1. FC Köln
+Mikael Ishak,"1,86",76,1. FC Köln
+Anthony Ujah,"1,84",75,1. FC Köln
+Thomas Kessler,"1,95",85,1. FC Köln
+Mergim Mavraj,"1,90",82,1. FC Köln
+Daniel Halfar,"1,72",68,1. FC Köln
+Matthias Lehmann,"1,79",74,1. FC Köln
+Dominik Maroh,"1,86",80,1. FC Köln
+Marcel Risse,"1,83",78,1. FC Köln
+Patrick Helmes,"1,82",78,1. FC Köln
+Willi Evseev,"1,76",66,1. FC Nürnberg
+Markus Mendler,"1,73",66,1. FC Nürnberg
+Niclas Füllkrug,"1,88",78,1. FC Nürnberg
+Valérien Ismaël,"1,91",81,1. FC Nürnberg
+Adrian Nikci,"1,83",75,1. FC Nürnberg
+Timo Gebhart,"1,82",75,1. FC Nürnberg
+Marek Mintál,"1,83",78,1. FC Nürnberg
+Jan Polak,"1,81",77,1. FC Nürnberg
+Horacio Javier Pinola,"1,82",79,1. FC Nürnberg
+Raphael Schäfer,"1,90",86,1. FC Nürnberg
+Patrick Rakovsky,"1,86",84,1. FC Nürnberg
+Benjamin Köhler,"1,72",66,1. FC Union Berlin
+Martin Kobylanski,"1,79",72,1. FC Union Berlin
+Fabian Schönheim,"1,91",83,1. FC Union Berlin
+Bayram Nebihi,"1,72",68,1. FC Union Berlin
+Daniel Haas,"1,89",82,1. FC Union Berlin
+Sebastian Polter,"1,90",83,1. FC Union Berlin
+Mario Eggimann,"1,89",84,1. FC Union Berlin
+Torsten Mattuschka,"1,86",82,1. FC Union Berlin
+Uwe Neuhaus,"1,84",81,1. FC Union Berlin
+Michael Parensen,"1,80",78,1. FC Union Berlin
+Adam Nemec,"1,90",87,1. FC Union Berlin
+Niko Bungert,"1,88",68,1. FSV Mainz 05
+Christoph Moritz,"1,85",70,1. FSV Mainz 05
+Nicolai Müller,"1,75",64,1. FSV Mainz 05
+Tobias Schilk,"1,83",70,1. FSV Mainz 05
+Loris Karius,"1,87",75,1. FSV Mainz 05
+Christian Clemens,"1,80",70,1. FSV Mainz 05
+Yunus Malli,"1,79",70,1. FSV Mainz 05
+Ja-Cheol Koo,"1,83",73,1. FSV Mainz 05
+Jonas Hofmann,"1,74",67,1. FSV Mainz 05
+Daniel Brosinski,"1,78",70,1. FSV Mainz 05
+Elkin Soto,"1,78",71,1. FSV Mainz 05
+Joo Ho Park,"1,76",70,1. FSV Mainz 05
+Nikita Rukavytsya,"1,82",75,1. FSV Mainz 05
+Thomas Tuchel,"1,90",83,1. FSV Mainz 05
+Johannes Geis,"1,77",73,1. FSV Mainz 05
+Stefan Bell,"1,92",86,1. FSV Mainz 05
+Shinji Okazaki,"1,73",70,1. FSV Mainz 05
+Dani Schahin,"1,87",82,1. FSV Mainz 05
+Markus Feulner,"1,81",77,1. FSV Mainz 05
+Petar Sliskovic,"1,93",88,1. FSV Mainz 05
+Julian Baumgartlinger,"1,81",79,1. FSV Mainz 05
+Nikolce Noveski,"1,90",87,1. FSV Mainz 05
+Chinedu Ede,"1,78",78,1. FSV Mainz 05
+Niki Zimling,"1,75",77,1. FSV Mainz 05
+Oliver Baumann,"1,85",70,1899 Hoffenheim
+Tarik Elyounoussi,"1,72",62,1899 Hoffenheim
+Tim Paterok,"1,91",77,1899 Hoffenheim
+Pirmin Schwegler,"1,79",68,1899 Hoffenheim
+Anthony Modeste,"1,86",74,1899 Hoffenheim
+Ahmed Sassi,"1,79",69,1899 Hoffenheim
+Adam Szalai,"1,93",80,1899 Hoffenheim
+Robin Szarka,"1,76",67,1899 Hoffenheim
+Andreas Beck,"1,80",70,1899 Hoffenheim
+Eugen Polanski,"1,83",73,1899 Hoffenheim
+Pelle Jensen,"1,93",83,1899 Hoffenheim
+Knowledge Musona,"1,74",68,1899 Hoffenheim
+Matthias Jaissle,"1,86",78,1899 Hoffenheim
+Kevin Volland,"1,80",74,1899 Hoffenheim
+Sebastian Rudy,"1,77",72,1899 Hoffenheim
+Eren Derdiyok,"1,90",83,1899 Hoffenheim
+Sven Schipplock,"1,85",79,1899 Hoffenheim
+Jens Grahl,"1,93",86,1899 Hoffenheim
+Kai Herdling,"1,76",72,1899 Hoffenheim
+Alexander Stolz,"1,89",83,1899 Hoffenheim
+Ermin Bicakcic,"1,85",80,1899 Hoffenheim
+Roberto Firmino,"1,80",76,1899 Hoffenheim
+Filip Malbasic,"1,82",78,1899 Hoffenheim
+Sejad Salihovic,"1,80",80,1899 Hoffenheim
+Lars Bender,"1,82",68,Bayer Leverkusen
+Stefan Reinartz,"1,88",75,Bayer Leverkusen
+Josip Drmic,"1,82",71,Bayer Leverkusen
+Stefan Kießling,"1,91",78,Bayer Leverkusen
+Karim Bellarabi,"1,84",73,Bayer Leverkusen
+Bernd Leno,"1,90",79,Bayer Leverkusen
+Simon Rolfes,"1,89",79,Bayer Leverkusen
+Philipp Wollscheid,"1,94",84,Bayer Leverkusen
+Robbie Kruse,"1,79",72,Bayer Leverkusen
+David Yelldell,"1,94",85,Bayer Leverkusen
+Heung-Min Son,"1,83",76,Bayer Leverkusen
+Emir Spahic,"1,83",77,Bayer Leverkusen
+Roberto Hilbert,"1,82",77,Bayer Leverkusen
+Michael Ortega,"1,77",73,Bayer Leverkusen
+Kyriakos Papadopoulos,"1,83",78,Bayer Leverkusen
+Sebastian Boenisch,"1,91",85,Bayer Leverkusen
+Ömer Toprak,"1,86",81,Bayer Leverkusen
+Hakan Calhanoglu,"1,76",73,Bayer Leverkusen
+Kostas Stafylidis,"1,77",74,Bayer Leverkusen
+Gonzalo Castro,"1,70",70,Bayer Leverkusen
+Giulio Donati,"1,75",76,Bayer Leverkusen
+Kevin Kampl,"1,79",64,Borussia Dortmund
+Kevin Großkreutz,"1,86",70,Borussia Dortmund
+Nuri Sahin,"1,79",65,Borussia Dortmund
+Sven Bender,"1,83",68,Borussia Dortmund
+Mitchell Langerak,"1,91",77,Borussia Dortmund
+Lukasz Piszczek,"1,84",74,Borussia Dortmund
+Shinji Kagawa,"1,72",65,Borussia Dortmund
+Oliver Kirch,"1,82",73,Borussia Dortmund
+Jakub Blaszczykowski,"1,73",67,Borussia Dortmund
+Marcel Schmelzer,"1,81",74,Borussia Dortmund
+Sebastian Kehl,"1,88",80,Borussia Dortmund
+Jürgen Klopp,"1,91",83,Borussia Dortmund
+Neven Subotic,"1,93",85,Borussia Dortmund
+Matthias Ginter,"1,87",80,Borussia Dortmund
+Marco Reus,"1,80",75,Borussia Dortmund
+Ilkay Gündogan,"1,80",76,Borussia Dortmund
+Roman Weidenfeller,"1,88",85,Borussia Dortmund
+Mats Hummels,"1,91",88,Borussia Dortmund
+Christoph Kramer,"1,89",69,Borussia Mönchengladbach
+Julian Korb,"1,73",60,Borussia Mönchengladbach
+Fabian Johnson,"1,78",65,Borussia Mönchengladbach
+Havard Nordtveit,"1,86",72,Borussia Mönchengladbach
+Granit Xhaka,"1,83",70,Borussia Mönchengladbach
+Ibrahima Traore,"1,72",62,Borussia Mönchengladbach
+Roel Brouwers,"1,90",76,Borussia Mönchengladbach
+André Hahn,"1,85",73,Borussia Mönchengladbach
+Branimir Hrgota,"1,85",74,Borussia Mönchengladbach
+Tony Jantschke,"1,77",69,Borussia Mönchengladbach
+Lucien Favre,"1,78",70,Borussia Mönchengladbach
+Max Kruse,"1,80",72,Borussia Mönchengladbach
+Martin Stranzl,"1,90",80,Borussia Mönchengladbach
+Janis Blaswich,"1,90",81,Borussia Mönchengladbach
+Amin Younes,"1,68",67,Borussia Mönchengladbach
+Thorben Marx,"1,82",79,Borussia Mönchengladbach
+Nico Brandenburger,"1,79",77,Borussia Mönchengladbach
+Filip Daems,"1,81",79,Borussia Mönchengladbach
+Oscar Wendt,"1,80",79,Borussia Mönchengladbach
+Mahmoud Dahoud,"1,76",76,Borussia Mönchengladbach
+Christofer Heimeroth,"1,94",93,Borussia Mönchengladbach
+Alvaro Dominguez,"1,83",83,Borussia Mönchengladbach
+Benjamin Kessel,"1,91",75,Eintracht Braunschweig
+Hendrick Zuck,"1,76",64,Eintracht Braunschweig
+Norman Theuerkauf,"1,83",71,Eintracht Braunschweig
+Mirko Boland,"1,74",65,Eintracht Braunschweig
+Damir Vrancic,"1,84",74,Eintracht Braunschweig
+Marcel Correia,"1,86",76,Eintracht Braunschweig
+Matthias Henn,"1,87",77,Eintracht Braunschweig
+Jan Washausen,"1,85",76,Eintracht Braunschweig
+Deniz Dogan,"1,84",76,Eintracht Braunschweig
+Torsten Lieberknecht,"1,74",68,Eintracht Braunschweig
+Dennis Kruppke,"1,79",73,Eintracht Braunschweig
+Torsten Oehrl,"1,91",84,Eintracht Braunschweig
+Jan Hochscheidt,"1,80",75,Eintracht Braunschweig
+Marc Pfitzner,"1,83",78,Eintracht Braunschweig
+Vegar Eggen Hedenstad,"1,78",74,Eintracht Braunschweig
+Marjan Petkovic,"1,87",86,Eintracht Braunschweig
+Ken Reichel,"1,84",84,Eintracht Braunschweig
+Tranquillo Barnetta,"1,76",62,Eintracht Frankfurt
+Takashi Inui,"1,70",59,Eintracht Frankfurt
+Sonny Kittel,"1,78",65,Eintracht Frankfurt
+Marco Russ,"1,90",75,Eintracht Frankfurt
+Vaclav Kadlec,"1,80",68,Eintracht Frankfurt
+Makoto Hasebe,"1,77",66,Eintracht Frankfurt
+Martin Lanig,"1,90",76,Eintracht Frankfurt
+Alexander Hien,"1,83",72,Eintracht Frankfurt
+Marc Stendera,"1,71",64,Eintracht Frankfurt
+Alexander Meier,"1,96",84,Eintracht Frankfurt
+Aleksandar Ignjovski,"1,75",68,Eintracht Frankfurt
+Armin Veh,"1,80",72,Eintracht Frankfurt
+Constant Djakpa,"1,77",70,Eintracht Frankfurt
+Nelson Valdez,"1,78",71,Eintracht Frankfurt
+Johannes Flum,"1,89",80,Eintracht Frankfurt
+Carlos Zambrano,"1,85",77,Eintracht Frankfurt
+Slobodan Medojevic,"1,86",78,Eintracht Frankfurt
+Felix Wiedwald,"1,90",82,Eintracht Frankfurt
+Timo Hildebrand,"1,86",79,Eintracht Frankfurt
+Kevin Trapp,"1,90",83,Eintracht Frankfurt
+Timothy Chandler,"1,85",80,Eintracht Frankfurt
+Bastian Oczipka,"1,84",81,Eintracht Frankfurt
+Alexander Madlung,"1,94",93,Eintracht Frankfurt
+Ionnis Gelios,"1,90",76,FC Augsburg
+Tobias Werner,"1,76",66,FC Augsburg
+Christoph Janker,"1,85",73,FC Augsburg
+Dong-Won Ji,"1,86",75,FC Augsburg
+Sascha Mölders,"1,85",75,FC Augsburg
+Dominik Reinhardt,"1,88",78,FC Augsburg
+Jeong-Ho Hong,"1,86",77,FC Augsburg
+Jan-Ingwer Callsen-Bracker,"1,87",78,FC Augsburg
+Matthias Ostrzolek,"1,78",71,FC Augsburg
+Dominik Kohr,"1,83",75,FC Augsburg
+Markus Weinzierl,"1,78",72,FC Augsburg
+Ragnar Klavan,"1,85",79,FC Augsburg
+Alexander Esswein,"1,81",76,FC Augsburg
+Paul Verhaegh,"1,78",74,FC Augsburg
+Pierre Emil Höjbjerg,"1,86",81,FC Augsburg
+Alexander Manninger,"1,88",83,FC Augsburg
+Jan Morávek,"1,78",75,FC Augsburg
+Shawn Parker,"1,79",76,FC Augsburg
+Daniel Baier,"1,74",72,FC Augsburg
+Marcel de Jong,"1,74",73,FC Augsburg
+Raul Bobadilla,"1,80",78,FC Augsburg
+Marwin Hitz,"1,90",88,FC Augsburg
+Sebastian Rode,"1,79",67,FC Bayern München
+Robert Lewandowski,"1,81",70,FC Bayern München
+Thomas Müller,"1,86",74,FC Bayern München
+Mario Mandzukic,"1,87",75,FC Bayern München
+Philipp Lahm,"1,70",62,FC Bayern München
+Mitchell-Elijah Weiser,"1,76",67,FC Bayern München
+Josep Guardiola,"1,80",70,FC Bayern München
+Holger Badstuber,"1,89",78,FC Bayern München
+Mario Götze,"1,71",64,FC Bayern München
+Jerome Boateng,"1,90",79,FC Bayern München
+Patrick Weihrauch,"1,81",73,FC Bayern München
+Javier Martinez,"1,90",81,FC Bayern München
+Franck Ribery,"1,70",65,FC Bayern München
+Diego Contento,"1,76",70,FC Bayern München
+Arjen Robben,"1,80",75,FC Bayern München
+Manuel Neuer,"1,92",85,FC Bayern München
+Bastian Schweinsteiger,"1,81",77,FC Bayern München
+Xherdan Shaqiri,"1,70",70,FC Bayern München
+Tom Starke,"1,94",91,FC Bayern München
+Claudio Pizarro,"1,84",84,FC Bayern München
+Jörg Böhme,"1,78",78,FC Energie Cottbus
+Sascha Kirschstein,"1,96",85,FC Erzgebirge Aue
+Michael Fink,"1,83",76,FC Erzgebirge Aue
+Martin Männel,"1,83",78,FC Erzgebirge Aue
+Falko Götz,"1,81",77,FC Erzgebirge Aue
+Frank Löning,"1,87",85,FC Erzgebirge Aue
+René Klingbeil,"1,80",79,FC Erzgebirge Aue
+Thomas Paulus,"1,89",87,FC Erzgebirge Aue
+Oliver Schröder,"1,83",83,FC Erzgebirge Aue
+Thomas Pledl,"1,74",65,FC Ingolstadt 04
+Ralph Gunesch,"1,89",78,FC Ingolstadt 04
+Andre Mijatovic,"1,91",80,FC Ingolstadt 04
+Tobias Levels,"1,84",75,FC Ingolstadt 04
+Almog Cohen,"1,70",65,FC Ingolstadt 04
+Alfredo Morales,"1,75",69,FC Ingolstadt 04
+Leon Jessen,"1,82",75,FC Ingolstadt 04
+Tomas Pekhart,"1,87",80,FC Ingolstadt 04
+André Weis,"1,90",85,FC Ingolstadt 04
+Marvin Matip,"1,84",80,FC Ingolstadt 04
+Ramazan Özcan,"1,88",85,FC Ingolstadt 04
+Tamas Hajnal,"1,68",68,FC Ingolstadt 04
+Mathew Leckie,"1,80",78,FC Ingolstadt 04
+Christian Eigler,"1,85",83,FC Ingolstadt 04
+Danny da Costa,"1,85",85,FC Ingolstadt 04
+Chinedu Obasi,"1,88",70,FC Schalke 04
+Atsuto Uchida,"1,76",62,FC Schalke 04
+Julian Draxler,"1,83",68,FC Schalke 04
+Jan Kirchhoff,"1,93",78,FC Schalke 04
+Leon Goretzka,"1,89",75,FC Schalke 04
+Roman Neustädter,"1,88",75,FC Schalke 04
+Benedikt Höwedes,"1,87",75,FC Schalke 04
+Sidney Sam,"1,75",66,FC Schalke 04
+Felipe Santana,"1,90",78,FC Schalke 04
+Marco Höger,"1,86",78,FC Schalke 04
+Eric Maxim Choupo-Moting,"1,88",80,FC Schalke 04
+Maximilian Meyer,"1,69",65,FC Schalke 04
+Klaas Jan Huntelaar,"1,83",78,FC Schalke 04
+Christian Fuchs,"1,85",80,FC Schalke 04
+Ralf Fährmann,"1,94",89,FC Schalke 04
+Jefferson Farfan,"1,74",72,FC Schalke 04
+Vasilios Pliatsikas,"1,74",73,FC Schalke 04
+Fabian Giefer,"1,89",86,FC Schalke 04
+Jens Keller,"1,82",80,FC Schalke 04
+Sead Kolasinac,"1,83",82,FC Schalke 04
+Joel Matip,"1,83",83,FC Schalke 04
+Kevin-Prince Boateng,"1,85",86,FC Schalke 04
+Philipp Tschauner,"1,96",80,FC St. Pauli
+Jan Philipp Kalla,"1,87",75,FC St. Pauli
+Julian Koch,"1,85",74,FC St. Pauli
+Kevin Schindler,"1,91",79,FC St. Pauli
+Christopher Buchtmann,"1,75",68,FC St. Pauli
+Philipp Heerwagen,"1,93",83,FC St. Pauli
+Lennart Thy,"1,82",75,FC St. Pauli
+Lasse Sobiech,"1,96",87,FC St. Pauli
+Tom Trybull,"1,78",72,FC St. Pauli
+Dennis Daube,"1,85",78,FC St. Pauli
+Markus Thorandt,"1,86",79,FC St. Pauli
+Christopher Nöthe,"1,84",78,FC St. Pauli
+Thomas Meggle,"1,80",75,FC St. Pauli
+Sebastian Schachten,"1,92",85,FC St. Pauli
+Ewald Lienen,"1,76",72,FC St. Pauli
+Florian Kringe,"1,87",83,FC St. Pauli
+Bernd Nehrig,"1,82",79,FC St. Pauli
+Fabian Boll,"1,91",90,FC St. Pauli
+Lorenz-Günther Köstner,"1,77",66,Fortuna Düsseldorf
+Oliver Fink,"1,87",74,Fortuna Düsseldorf
+Andreas Lambertz,"1,76",67,Fortuna Düsseldorf
+Tugrul Erat,"1,93",81,Fortuna Düsseldorf
+Adam Bodzek,"1,84",77,Fortuna Düsseldorf
+André Fomitschow,"1,80",75,Fortuna Düsseldorf
+Erwin Hoffer,"1,76",72,Fortuna Düsseldorf
+Christian Weber,"1,75",72,Fortuna Düsseldorf
+Lukas Schmitz,"1,84",80,Fortuna Düsseldorf
+Axel Bellinghausen,"1,78",76,Fortuna Düsseldorf
+Bruno Soares,"1,79",77,Fortuna Düsseldorf
+Michael Rensing,"1,88",86,Fortuna Düsseldorf
+Lars Unnerstall,"1,99",98,Fortuna Düsseldorf
+Heinrich Schmidtgal,"1,74",75,Fortuna Düsseldorf
+Aristide Bancé,"1,90",90,Fortuna Düsseldorf
+Oliver Reck,"1,93",95,Fortuna Düsseldorf
+Denis Epstein,"1,80",67,FSV Frankfurt
+Hanno Balitsch,"1,82",74,FSV Frankfurt
+Odise Roshi,"1,87",78,FSV Frankfurt
+Chhunly Pagenburg,"1,78",71,FSV Frankfurt
+Sören Pirson,"1,95",85,FSV Frankfurt
+Faton Toski,"1,85",78,FSV Frankfurt
+Björn Schlicke,"1,93",85,FSV Frankfurt
+Sofian Chahed,"1,78",73,FSV Frankfurt
+Patric Klandt,"1,83",77,FSV Frankfurt
+Zlatko Dedic,"1,82",77,FSV Frankfurt
+Edmond Kapllani,"1,84",80,FSV Frankfurt
+Marc-André Kruska,"1,78",75,FSV Frankfurt
+Florian Ballas,"1,94",90,FSV Frankfurt
+Alexander Huber,"1,73",72,FSV Frankfurt
+Zafer Yelen,"1,80",78,FSV Frankfurt
+Ivo Ilicevic,"1,74",63,Hamburger SV
+Dennis Diekmeier,"1,88",74,Hamburger SV
+Lewis Holtby,"1,74",66,Hamburger SV
+Artjoms Rudnevs,"1,78",70,Hamburger SV
+Heiko Westermann,"1,90",80,Hamburger SV
+Slobodan Rajkovic,"1,95",85,Hamburger SV
+Gojko Kacar,"1,86",79,Hamburger SV
+Johan Djourou,"1,91",83,Hamburger SV
+Peter Knäbel,"1,77",72,Hamburger SV
+Petr Jiracek,"1,80",75,Hamburger SV
+Mirko Slomka,"1,87",81,Hamburger SV
+Zoltán Stieber,"1,83",78,Hamburger SV
+Marcell Jansen,"1,90",84,Hamburger SV
+Maximilian Beister,"1,80",77,Hamburger SV
+Jaroslav Drobny,"1,92",88,Hamburger SV
+Patrick Owomoyela,"1,87",84,Hamburger SV
+Jacques Zoua,"1,80",78,Hamburger SV
+Rafael van der Vaart,"1,75",74,Hamburger SV
+Pierre-Michel Lasogga,"1,89",88,Hamburger SV
+Ivica Olic,"1,82",82,Hamburger SV
+Kenan Karaman,"1,89",73,Hannover 96
+Leonardo Bittencourt,"1,71",60,Hannover 96
+Hiroki Sakai,"1,83",70,Hannover 96
+Andre Hoffmann,"1,88",74,Hannover 96
+Salif Sané,"1,92",77,Hannover 96
+Jan Schlaudraff,"1,80",68,Hannover 96
+Hiroshi Kiyotake,"1,72",63,Hannover 96
+Artur Sobiech,"1,84",75,Hannover 96
+Manuel Schmiedebach,"1,74",68,Hannover 96
+Didier Konan Ya,"1,74",68,Hannover 96
+Lars Stindl,"1,80",73,Hannover 96
+Edgar Prib,"1,81",74,Hannover 96
+Ron-Robert Zieler,"1,90",83,Hannover 96
+Christian Pander,"1,86",80,Hannover 96
+Christian Schulz,"1,85",81,Hannover 96
+Samuel Radlinger,"1,96",91,Hannover 96
+Markus Miller,"1,89",89,Hannover 96
+Peter Niemeyer,"1,88",68,Hertha BSC
+Fabian Lustenberger,"1,80",63,Hertha BSC
+Per Skjelbred,"1,75",62,Hertha BSC
+John Brooks,"1,93",78,Hertha BSC
+Jens Hegeler,"1,93",80,Hertha BSC
+Sascha Burchert,"1,87",76,Hertha BSC
+Tolga Cigerci,"1,85",75,Hertha BSC
+Hajime Hosogai,"1,76",68,Hertha BSC
+Marcel Ndjeng,"1,80",72,Hertha BSC
+Peter Pekarik,"1,76",70,Hertha BSC
+Marvin Plattenhardt,"1,79",73,Hertha BSC
+Sandro Wagner,"1,94",87,Hertha BSC
+Änis Ben-Hatira,"1,81",76,Hertha BSC
+Alexander Baumjohann,"1,77",73,Hertha BSC
+Thomas Kraft,"1,87",82,Hertha BSC
+Felix Bastians,"1,88",83,Hertha BSC
+Sebastian Langkamp,"1,90",85,Hertha BSC
+Julian Schieber,"1,86",83,Hertha BSC
+Pal Dardai,"1,79",78,Hertha BSC
+Johannes van den Bergh,"1,82",81,Hertha BSC
+Ben Sahar,"1,78",79,Hertha BSC
+Daniel Gordon,"1,92",80,Karlsruher SC
+Martin Stoll,"1,88",80,Karlsruher SC
+Gaetan Krebs,"1,65",62,Karlsruher SC
+Ilian Micanski,"1,86",79,Karlsruher SC
+Reinhold Yabo,"1,75",70,Karlsruher SC
+Philipp Klingmann,"1,81",78,Karlsruher SC
+Manuel Gulde,"1,80",78,Karlsruher SC
+Rouwen Hennings,"1,80",80,Karlsruher SC
+Denis Thomalla,"1,86",70,RB Leipzig
+Tim Sebastian,"1,87",74,RB Leipzig
+Marvin Compper,"1,85",75,RB Leipzig
+Alexander Laas,"1,73",70,RB Leipzig
+Dominik Kaiser,"1,70",68,RB Leipzig
+Rani Khedira,"1,88",83,RB Leipzig
+Henrik Ernst,"1,89",84,RB Leipzig
+Sebastian Mielitz,"1,88",73,SC Freiburg
+Gelson Fernandes,"1,83",70,SC Freiburg
+Garra Dembélé,"1,83",71,SC Freiburg
+Christopher Jullien,"1,95",82,SC Freiburg
+Christian Streich,"1,81",71,SC Freiburg
+Mensur Mujdza,"1,84",74,SC Freiburg
+Nils Petersen,"1,88",79,SC Freiburg
+Julian Schuster,"1,89",80,SC Freiburg
+Felix Klaus,"1,79",72,SC Freiburg
+Oliver Sorg,"1,74",69,SC Freiburg
+Admir Mehmedi,"1,80",74,SC Freiburg
+Fallou Diagné,"1,85",78,SC Freiburg
+Sascha Riether,"1,74",70,SC Freiburg
+Pavel Krmas,"1,92",85,SC Freiburg
+Immanuel Höhn,"1,87",81,SC Freiburg
+Karim Guedé,"1,83",79,SC Freiburg
+Mike Frantz,"1,80",77,SC Freiburg
+Nicolas Höfler,"1,81",78,SC Freiburg
+Daniel Batz,"1,90",86,SC Freiburg
+Marc-Oliver Kempf,"1,85",82,SC Freiburg
+Jonathan Schmid,"1,78",77,SC Freiburg
+Elias Kachunga,"1,76",64,SC Paderborn 07
+Lukas Rupp,"1,80",72,SC Paderborn 07
+Mario Vrancic,"1,86",77,SC Paderborn 07
+Uwe Hünemeier,"1,88",79,SC Paderborn 07
+Marvin Bakalorz,"1,80",73,SC Paderborn 07
+Moritz Stoppelkamp,"1,80",75,SC Paderborn 07
+Lukas Kruse,"1,84",79,SC Paderborn 07
+Florian Hartherz,"1,87",82,SC Paderborn 07
+André Breitenreiter,"1,82",78,SC Paderborn 07
+Srdjan Lakic,"1,88",83,SC Paderborn 07
+Stefan Kutschke,"1,94",89,SC Paderborn 07
+Mahir Saglik,"1,78",76,SC Paderborn 07
+Christian Wetklo,"1,90",93,Schalke 04
+Johannes Wurtz,"1,83",70,SpVgg Greuther Fürth
+Stephan Fürstner,"1,77",67,SpVgg Greuther Fürth
+Florian Trinks,"1,83",73,SpVgg Greuther Fürth
+Niko Gießelmann,"1,81",73,SpVgg Greuther Fürth
+Sebastian Freis,"1,83",75,SpVgg Greuther Fürth
+Ronny Philp,"1,83",76,SpVgg Greuther Fürth
+Benedikt Röcker,"1,96",88,SpVgg Greuther Fürth
+Stefan Thesker,"1,90",83,SpVgg Greuther Fürth
+Marco Caligiuri,"1,80",75,SpVgg Greuther Fürth
+Wolfgang Hesl,"1,85",79,SpVgg Greuther Fürth
+Stephan Schröck,"1,70",68,SpVgg Greuther Fürth
+Michael Büskens,"1,81",79,SpVgg Greuther Fürth
+Tom Mickel,"1,84",83,SpVgg Greuther Fürth
+Ranisav Jovanovic,"1,91",78,SV 1916 Sandhausen
+Marco Thiede,"1,80",70,SV 1916 Sandhausen
+Robert Zillner,"1,83",74,SV 1916 Sandhausen
+Seyi Olajengbesi,"1,90",80,SV 1916 Sandhausen
+Simon Tüting,"1,88",79,SV 1916 Sandhausen
+Marc Pfertzel,"1,82",75,SV 1916 Sandhausen
+Marco Knaller,"1,92",85,SV 1916 Sandhausen
+Andrew Wooten,"1,85",81,SV 1916 Sandhausen
+Steven Zellner,"1,81",78,SV 1916 Sandhausen
+Kevin Kratz,"1,73",72,SV 1916 Sandhausen
+Alois Schwartz,"1,82",80,SV 1916 Sandhausen
+Radoslav Zábavník,"1,80",79,SV 1916 Sandhausen
+Hanno Behrens,"1,88",78,SV Darmstadt 98
+Jan Rosenthal,"1,84",76,SV Darmstadt 98
+Leon Balogun,"1,90",81,SV Darmstadt 98
+Dominik Stroh-Engel,"1,97",87,SV Darmstadt 98
+Marcel Heller,"1,76",70,SV Darmstadt 98
+Sandro Sirigu,"1,82",75,SV Darmstadt 98
+Michael Stegmayer,"1,76",73,SV Darmstadt 98
+Dirk Schuster,"1,77",74,SV Darmstadt 98
+Patrick Platins,"1,90",87,SV Darmstadt 98
+Fabian Holland,"1,72",73,SV Darmstadt 98
+Özkan Yildirim,"1,72",76,SV Werder Bremen
+Franco Di Santo,"1,93",78,SV Werder Bremen
+Santiago Garcia,"1,90",76,SV Werder Bremen
+Koen Casteels,"1,96",81,SV Werder Bremen
+Aleksandar Stevanovic,"1,75",65,SV Werder Bremen
+Mehmet Ekici,"1,80",70,SV Werder Bremen
+Felix Kroos,"1,80",70,SV Werder Bremen
+Victor Skripnik,"1,84",73,SV Werder Bremen
+Theodor Gebre Selassie,"1,81",72,SV Werder Bremen
+Fin Bartels,"1,76",69,SV Werder Bremen
+Eljero Elia,"1,76",70,SV Werder Bremen
+Luca Caldirola,"1,82",75,SV Werder Bremen
+Philipp Bargfrede,"1,74",70,SV Werder Bremen
+Zlatko Junuzovic,"1,80",75,SV Werder Bremen
+Sebastian Prödl,"1,92",85,SV Werder Bremen
+Janek Sternberg,"1,81",78,SV Werder Bremen
+Raphael Wolf,"1,90",86,SV Werder Bremen
+Assani Lukimya-Mulongoti,"1,86",83,SV Werder Bremen
+Clemens Fritz,"1,83",81,SV Werder Bremen
+Jannik Vestergaard,"1,97",95,SV Werder Bremen
+Cedrick Makiadi,"1,77",77,SV Werder Bremen
+Robin Dutt,"1,80",82,SV Werder Bremen
+Richard Strebinger,"1,94",89,SV Werder Bremen
+Kai Bülow,"1,88",77,TSV 1860 München
+Torsten Fröhling,"1,86",79,TSV 1860 München
+Moritz Volz,"1,81",75,TSV 1860 München
+Stephan Hain,"1,80",77,TSV 1860 München
+Valdet Rama,"1,78",77,TSV 1860 München
+Gabor Király,"1,90",90,TSV 1860 München
+Christian Gentner,"1,89",73,VfB Stuttgart
+Georg Niedermeier,"1,88",75,VfB Stuttgart
+Martin Harnik,"1,85",73,VfB Stuttgart
+Moritz Leitner,"1,74",65,VfB Stuttgart
+Adam Hlousek,"1,88",76,VfB Stuttgart
+Daniel Schwaab,"1,86",75,VfB Stuttgart
+Antonio Rüdiger,"1,91",81,VfB Stuttgart
+Sven Ulreich,"1,89",80,VfB Stuttgart
+Vedad Ibisevic,"1,89",80,VfB Stuttgart
+Daniel Ginczek,"1,88",80,VfB Stuttgart
+Daniel Didavi,"1,79",73,VfB Stuttgart
+Timo Werner,"1,80",74,VfB Stuttgart
+Raphael Holzhauser,"1,93",85,VfB Stuttgart
+William Kvist,"1,84",78,VfB Stuttgart
+Karim Haggui,"1,90",83,VfB Stuttgart
+Thorsten Kirschbaum,"1,94",87,VfB Stuttgart
+Alexandru Maxim,"1,77",73,VfB Stuttgart
+Gotoku Sakai,"1,76",74,VfB Stuttgart
+Sercan Sararer,"1,80",80,VfB Stuttgart
+Konstantin Rausch,"1,78",80,VfB Stuttgart
+Michael Gregoritsch,"1,91",74,VfL Bochum
+Jan Simunek,"1,87",72,VfL Bochum
+Simon Terodde,"1,92",78,VfL Bochum
+Stanislav Sestak,"1,80",70,VfL Bochum
+Timo Perthel,"1,83",73,VfL Bochum
+Stefano Celozzi,"1,71",65,VfL Bochum
+Michael Lumb,"1,77",70,VfL Bochum
+Christian Tiffert,"1,83",75,VfL Bochum
+Marco Terrazzino,"1,76",70,VfL Bochum
+Carsten Rothenbach,"1,85",78,VfL Bochum
+Danny Latza,"1,80",75,VfL Bochum
+Mikael Forssell,"1,84",79,VfL Bochum
+Lukas Sinkiewicz,"1,86",81,VfL Bochum
+Marcel Maltritz,"1,86",81,VfL Bochum
+Ken Ilsö,"1,83",79,VfL Bochum
+Michael Delura,"1,91",86,VfL Bochum
+Patrick Fabian,"1,94",89,VfL Bochum
+Andreas Luthe,"1,94",90,VfL Bochum
+Heiko Butscher,"1,89",86,VfL Bochum
+Kevin De Bruyne,"1,80",68,VfL Wolfsburg
+Marcel Schäfer,"1,84",71,VfL Wolfsburg
+Bas Dost,"1,91",78,VfL Wolfsburg
+Sebastian Jung,"1,78",68,VfL Wolfsburg
+Bjarne Thoelke,"1,92",80,VfL Wolfsburg
+Aaron Hunt,"1,83",73,VfL Wolfsburg
+Andre Schürrle,"1,84",74,VfL Wolfsburg
+Patrick Ochs,"1,79",71,VfL Wolfsburg
+Ricardo Rodríguez,"1,80",72,VfL Wolfsburg
+Diego Benaglio,"1,92",82,VfL Wolfsburg
+Christian Träsch,"1,80",73,VfL Wolfsburg
+Ibrahim Sissoko,"1,77",71,VfL Wolfsburg
+Ivan Perisic,"1,80",74,VfL Wolfsburg
+Daniel Caligiuri,"1,86",80,VfL Wolfsburg
+Max Grün,"1,91",85,VfL Wolfsburg
+Timm Klose,"1,93",87,VfL Wolfsburg
+Patrick Drewes,"1,93",87,VfL Wolfsburg
+Felipe Lopes,"1,88",84,VfL Wolfsburg
+Kevin Scheidhauer,"1,90",90,VfL Wolfsburg
+Dieter Hecking,"1,77",79,VfL Wolfsburg
+Robin Knoche,"1,72",75,VfL Wolfsburg
+Gianluca Korte,"1,77",68,VfR Aalen
+Sebastian Neumann,"1,86",75,VfR Aalen
+Nejmeddin Daghfous,"1,78",70,VfR Aalen
+Markus Steinhöfer,"1,75",69,VfR Aalen
+Daniel Bernhardt,"1,89",81,VfR Aalen
+Arne Feick,"1,80",74,VfR Aalen
+Jürgen Gjasula,"1,86",79,VfR Aalen
+Andreas Ludwig,"1,72",68,VfR Aalen
+Oliver Barth,"1,88",82,VfR Aalen
+Manuel Junglas,"1,79",75,VfR Aalen
